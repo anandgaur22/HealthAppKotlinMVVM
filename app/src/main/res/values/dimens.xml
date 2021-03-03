@@ -1,0 +1,113 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">140dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+
+    <dimen name="img_width_height">260dp</dimen>
+
+    <dimen name="threehundardnintydp">390dp</dimen>
+    <dimen name="threehundardfifteendp">315dp</dimen>
+    <dimen name="twohundardninetydp">290dp</dimen>
+    <dimen name="twohundredfoutydp">240dp</dimen>
+    <dimen name="twohundardtendp">210dp</dimen>
+    <dimen name="onehunderdfifyfivedp">155dp</dimen>
+    <dimen name="onehundredtweentyeightdp">128dp</dimen>
+    <dimen name="onehundardtweetyfivedp">125dp</dimen>
+    <dimen name="onehundardfifteendp">115dp</dimen>
+    <dimen name="hundreddp">100dp</dimen>
+    <dimen name="ninetydp">90dp</dimen>
+    <dimen name="sixtyfivedp">65dp</dimen>
+    <dimen name="sixtydp">60dp</dimen>
+    <dimen name="fiftyfivedp">55dp</dimen>
+    <dimen name="fiftydp">50dp</dimen>
+    <dimen name="fourtyfivedp">45dp</dimen>
+    <dimen name="fourtydp">40dp</dimen>
+    <dimen name="thirtyfivedp">35dp</dimen>
+    <dimen name="thirtydp">30dp</dimen>
+    <dimen name="tweentysixdp">26dp</dimen>
+    <dimen name="tweetyfivedp">25dp</dimen>
+    <dimen name="tweentyfourdp">24dp</dimen>
+    <dimen name="twentythreedp">23dp</dimen>
+    <dimen name="twentytwodp">22dp</dimen>
+    <dimen name="twentyonedp">21dp</dimen>
+    <dimen name="tweentydp">20dp</dimen>
+    <dimen name="nineteendp">19dp</dimen>
+    <dimen name="eighteendp">18dp</dimen>
+    <dimen name="seventeendp">17dp</dimen>
+    <dimen name="sixteendp">16dp</dimen>
+    <dimen name="fifteendp">15dp</dimen>
+    <dimen name="fourteendp">14dp</dimen>
+    <dimen name="thirteendp">13dp</dimen>
+    <dimen name="twelvedp">12dp</dimen>
+    <dimen name="elevendp">11dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="ninedp">9dp</dimen>
+    <dimen name="eightdp">8dp</dimen>
+    <dimen name="sevendp">7dp</dimen>
+    <dimen name="sixdp">6dp</dimen>
+    <dimen name="fivedp">5dp</dimen>
+    <dimen name="fourdp">4dp</dimen>
+    <dimen name="threedp">3dp</dimen>
+    <dimen name="twodp">2dp</dimen>
+    <dimen name="onedp">1dp</dimen>
+
+    <dimen name="tweentytwosp">22sp</dimen>
+    <dimen name="tweentyonesp">21sp</dimen>
+    <dimen name="tweentysp">20sp</dimen>
+    <dimen name="nineteensp">19sp</dimen>
+    <dimen name="eighteensp">18sp</dimen>
+    <dimen name="seventeensp">17sp</dimen>
+    <dimen name="sixteensp">16sp</dimen>
+    <dimen name="fifteensp">15sp</dimen>
+    <dimen name="fourteensp">14sp</dimen>
+    <dimen name="thirteensp">13sp</dimen>
+    <dimen name="twelvesp">12sp</dimen>
+    <dimen name="elevensp">11sp</dimen>
+    <dimen name="tensp">10sp</dimen>
+    <dimen name="ninesp">9sp</dimen>
+    <dimen name="eightsp">8sp</dimen>
+    <dimen name="sevensp">7sp</dimen>
+    <dimen name="sixsp">6sp</dimen>
+    <dimen name="fivesp">5sp</dimen>
+
+    <dimen name="twohundaredeightyfourdp">284dp</dimen>
+    <dimen name="threehundaredeightdp">308dp</dimen>
+    <dimen name="onefiftyonedp">151dp</dimen>
+    <dimen name="fourtysevendp">47dp</dimen>
+    <dimen name="threehundaredtendp">310dp</dimen>
+    <dimen name="eightyonedp">81dp</dimen>
+    <dimen name="threesixtyfivedp">365dp</dimen>
+    <dimen name="twoeightyfourdp">284dp</dimen>
+    <dimen name="thirtysp">30sp</dimen>
+    <dimen name="threehundaredeightendp">318dp</dimen>
+    <dimen name="fiftyfourdp">54dp</dimen>
+    <dimen name="zerodp">0dp</dimen>
+    <dimen name="oneeigtyfivedp">185dp</dimen>
+    <dimen name="twothirtyonedp">231dp</dimen>
+    <dimen name="ninetysixdp">96dp</dimen>
+    <dimen name="oneninetysixdp">196dp</dimen>
+    <dimen name="twofiftydp">250dp</dimen>
+    <dimen name="threefourtydp">340dp</dimen>
+    <dimen name="leftdp">40dp</dimen>
+    <dimen name="rightdp">40dp</dimen>
+
+
+    <dimen name="default_space">16dp</dimen>
+    <dimen name="border_width">1dp</dimen>
+    <dimen name="no_border_width">0dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="dot_radius">2dp</dimen>
+    <dimen name="dot_spacing">3dp</dimen>
+    <dimen name="line_width">1dp</dimen>
+    <dimen name="line_spacing">6dp</dimen>
+
+
+</resources>
