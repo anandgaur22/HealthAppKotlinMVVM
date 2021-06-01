@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.ui.verifyOtp
+package com.appzdigital.healthgro.ui.verifyOtp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -11,15 +11,13 @@ import android.view.View
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.b2cinfosolution.healthgro.R
-import com.b2cinfosolution.healthgro.databinding.ActivitySignupBinding
-import com.b2cinfosolution.healthgro.databinding.ActivityVerifyOtpBinding
-import com.b2cinfosolution.healthgro.prefrences.PrefrenceManager
-import com.b2cinfosolution.healthgro.ui.home.HomeActivity
-import com.b2cinfosolution.healthgro.ui.resetpassword.ResetPasswordActivity
-import com.b2cinfosolution.healthgro.ui.signup.SignupViewModel
-import com.b2cinfosolution.healthgro.utils.CustomeProgressDialog
-import com.b2cinfosolution.healthgro.utils.Utility
+import com.appzdigital.healthgro.R
+import com.appzdigital.healthgro.databinding.ActivityVerifyOtpBinding
+import com.appzdigital.healthgro.prefrences.PrefrenceManager
+import com.appzdigital.healthgro.ui.home.HomeActivity
+import com.appzdigital.healthgro.ui.resetpassword.ResetPasswordActivity
+import com.appzdigital.healthgro.utils.CustomeProgressDialog
+import com.appzdigital.healthgro.utils.Utility
 import javax.inject.Inject
 
 class VerifyOtpActivity : AppCompatActivity() {

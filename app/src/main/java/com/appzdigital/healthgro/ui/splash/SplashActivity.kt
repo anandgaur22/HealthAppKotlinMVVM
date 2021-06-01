@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.ui.splash
+package com.appzdigital.healthgro.ui.splash
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,15 +6,14 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.view.WindowManager
-import android.view.animation.AnimationUtils
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
-import com.b2cinfosolution.healthgro.R
-import com.b2cinfosolution.healthgro.databinding.ActivitySplashBinding
-import com.b2cinfosolution.healthgro.prefrences.PrefrenceManager
-import com.b2cinfosolution.healthgro.ui.home.HomeActivity
-import com.b2cinfosolution.healthgro.ui.login.LoginActivity
-import com.b2cinfosolution.healthgro.utils.SPLASH_DELAY
+import com.appzdigital.healthgro.R
+import com.appzdigital.healthgro.databinding.ActivitySplashBinding
+import com.appzdigital.healthgro.prefrences.PrefrenceManager
+import com.appzdigital.healthgro.ui.home.HomeActivity
+import com.appzdigital.healthgro.ui.login.LoginActivity
+import com.appzdigital.healthgro.utils.SPLASH_DELAY
 import javax.inject.Inject
 
 class SplashActivity : AppCompatActivity() {

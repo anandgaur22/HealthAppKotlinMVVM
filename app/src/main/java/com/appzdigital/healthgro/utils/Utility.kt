@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.utils
+package com.appzdigital.healthgro.utils
 
 import android.app.Activity
 import android.app.AlertDialog
@@ -17,7 +17,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
 import androidx.core.content.ContextCompat
-import com.b2cinfosolution.healthgro.R
+import com.appzdigital.healthgro.R
 import java.text.DateFormat
 import java.text.ParseException
 import java.text.SimpleDateFormat

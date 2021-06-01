@@ -6,11 +6,11 @@ import android.graphics.Paint
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.appzdigital.healthgro.databinding.PopularSurgeryItemBinding
+import com.appzdigital.healthgro.databinding.TopHealthItemBinding
 import com.appzdigital.healthgro.interfaces.ICallback
 
-class PopularSurgeryAdapter(modelList: List<*>, context: Context?, iCallback: ICallback?) :
-    RecyclerView.Adapter<PopularSurgeryAdapter.ViewHolder>() {
+class TopHealthAdapter(modelList: List<*>, context: Context?, iCallback: ICallback?) :
+    RecyclerView.Adapter<TopHealthAdapter.ViewHolder>() {
 
     private var iCallback: ICallback? = null
     private val modelList: List<TopHealthPackageModel>
@@ -18,7 +18,11 @@ class PopularSurgeryAdapter(modelList: List<*>, context: Context?, iCallback: IC
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         //inflate the layout file
-        val binding = PopularSurgeryItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
+        val binding = TopHealthItemBinding.inflate(
+            LayoutInflater.from(parent.context),
+            parent,
+            false
+        )
         return ViewHolder(binding)
 
     }
@@ -29,8 +33,8 @@ class PopularSurgeryAdapter(modelList: List<*>, context: Context?, iCallback: IC
         val name = modelList[position].name
 
         //holder.binding.nametv.text = name
-        holder.binding.mrpPrice.setPaintFlags(holder.binding.mrpPrice.getPaintFlags() or Paint.STRIKE_THRU_TEXT_FLAG)
 
+        holder.binding.mrpPrice.setPaintFlags(holder.binding.mrpPrice.getPaintFlags() or Paint.STRIKE_THRU_TEXT_FLAG)
 
         holder.binding.cardView.setOnClickListener {
             iCallback?.onItemClick(position)
@@ -44,7 +48,7 @@ class PopularSurgeryAdapter(modelList: List<*>, context: Context?, iCallback: IC
         return modelList.size
     }
 
-    inner class ViewHolder(val binding: PopularSurgeryItemBinding) : RecyclerView.ViewHolder(
+    inner class ViewHolder(val binding: TopHealthItemBinding) : RecyclerView.ViewHolder(
         binding.root
     )
 

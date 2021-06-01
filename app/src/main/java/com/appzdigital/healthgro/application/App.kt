@@ -1,8 +1,8 @@
-package com.b2cinfosolution.healthgro.application
+package com.appzdigital.healthgro.application
 
 import android.content.Context
 import androidx.multidex.MultiDexApplication
-import com.b2cinfosolution.healthgro.di.DaggerAppComponent
+import com.appzdigital.healthgro.di.DaggerAppComponent
 import dagger.android.AndroidInjector
 import dagger.android.DispatchingAndroidInjector
 import dagger.android.HasAndroidInjector

@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.prefrences
+package com.appzdigital.healthgro.prefrences
 
 import android.annotation.SuppressLint
 import android.content.Context

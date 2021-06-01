@@ -1,8 +1,7 @@
-package com.b2cinfosolution.healthgro.ui.signup
+package com.appzdigital.healthgro.ui.signup
 
 import android.app.DatePickerDialog
 import android.app.DatePickerDialog.OnDateSetListener
-import android.content.DialogInterface
 import android.content.Intent
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
@@ -16,12 +15,12 @@ import androidx.cardview.widget.CardView
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.b2cinfosolution.healthgro.R
-import com.b2cinfosolution.healthgro.databinding.ActivitySignupBinding
-import com.b2cinfosolution.healthgro.prefrences.PrefrenceManager
-import com.b2cinfosolution.healthgro.ui.verifyOtp.VerifyOtpActivity
-import com.b2cinfosolution.healthgro.utils.CustomeProgressDialog
-import com.b2cinfosolution.healthgro.utils.Utility
+import com.appzdigital.healthgro.R
+import com.appzdigital.healthgro.databinding.ActivitySignupBinding
+import com.appzdigital.healthgro.prefrences.PrefrenceManager
+import com.appzdigital.healthgro.ui.verifyOtp.VerifyOtpActivity
+import com.appzdigital.healthgro.utils.CustomeProgressDialog
+import com.appzdigital.healthgro.utils.Utility
 import java.text.SimpleDateFormat
 import java.util.*
 import javax.inject.Inject

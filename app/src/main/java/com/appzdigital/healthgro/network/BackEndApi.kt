@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.network
+package com.appzdigital.healthgro.network
 
 import com.google.gson.JsonObject
 import retrofit2.Call

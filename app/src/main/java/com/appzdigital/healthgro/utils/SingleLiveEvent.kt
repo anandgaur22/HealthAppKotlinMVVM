@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.utils
+package com.appzdigital.healthgro.utils
 
 import android.util.Log
 import androidx.annotation.MainThread

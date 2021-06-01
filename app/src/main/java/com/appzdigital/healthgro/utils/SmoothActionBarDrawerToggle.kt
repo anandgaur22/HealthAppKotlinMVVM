@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.utils
+package com.appzdigital.healthgro.utils
 
 import android.app.Activity
 import android.view.View

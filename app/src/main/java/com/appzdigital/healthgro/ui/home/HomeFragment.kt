@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.ui.home
+package com.appzdigital.healthgro.ui.home
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,9 +8,9 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.b2cinfosolution.healthgro.R
-import com.b2cinfosolution.healthgro.databinding.FragmentHomeBinding
-import com.b2cinfosolution.healthgro.interfaces.ICallback
+import com.appzdigital.healthgro.R
+import com.appzdigital.healthgro.databinding.FragmentHomeBinding
+import com.appzdigital.healthgro.interfaces.ICallback
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER

@@ -1,12 +1,12 @@
-package com.b2cinfosolution.healthgro.ui.login
+package com.appzdigital.healthgro.ui.login
 
 import android.app.Application
 import android.util.Log
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
-import com.b2cinfosolution.healthgro.network.BackEndApi
-import com.b2cinfosolution.healthgro.network.WebServiceClient
-import com.b2cinfosolution.healthgro.utils.SingleLiveEvent
+import com.appzdigital.healthgro.network.BackEndApi
+import com.appzdigital.healthgro.network.WebServiceClient
+import com.appzdigital.healthgro.utils.SingleLiveEvent
 import com.google.gson.JsonObject
 import com.google.gson.JsonParser
 import org.json.JSONObject

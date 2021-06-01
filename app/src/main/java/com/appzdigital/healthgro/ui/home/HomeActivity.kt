@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.ui.home
+package com.appzdigital.healthgro.ui.home
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,9 +8,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.b2cinfosolution.healthgro.R
-import com.b2cinfosolution.healthgro.databinding.ActivityHomeBinding
-import com.b2cinfosolution.healthgro.ui.searchLocation.SearchLocationActivity
+import com.appzdigital.healthgro.R
+import com.appzdigital.healthgro.databinding.ActivityHomeBinding
+import com.appzdigital.healthgro.ui.searchLocation.SearchLocationActivity
 import com.google.android.material.snackbar.Snackbar
 import javax.inject.Inject
 

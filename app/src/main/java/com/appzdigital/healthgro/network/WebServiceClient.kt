@@ -1,6 +1,6 @@
-package com.b2cinfosolution.healthgro.network
+package com.appzdigital.healthgro.network
 
-import com.b2cinfosolution.healthgro.utils.BASE_URL
+import com.appzdigital.healthgro.utils.BASE_URL
 import okhttp3.ConnectionSpec
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

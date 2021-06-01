@@ -1,14 +1,13 @@
-package com.b2cinfosolution.healthgro.ui.searchLocation
+package com.appzdigital.healthgro.ui.searchLocation
 
-import android.R.attr.data
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
-import com.b2cinfosolution.healthgro.R
-import com.b2cinfosolution.healthgro.databinding.ActivitySearchLocationBinding
+import com.appzdigital.healthgro.R
+import com.appzdigital.healthgro.databinding.ActivitySearchLocationBinding
 import javax.inject.Inject
 
 

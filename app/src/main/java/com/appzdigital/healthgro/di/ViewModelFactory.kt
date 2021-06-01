@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.di
+package com.appzdigital.healthgro.di
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

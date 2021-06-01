@@ -1,9 +1,9 @@
-package com.b2cinfosolution.healthgro.di
+package com.appzdigital.healthgro.di
 
 
-import com.b2cinfosolution.healthgro.application.App
-import com.b2cinfosolution.healthgro.utils.Network
-import com.b2cinfosolution.healthgro.utils.NetworkConnectivity
+import com.appzdigital.healthgro.application.App
+import com.appzdigital.healthgro.utils.Network
+import com.appzdigital.healthgro.utils.NetworkConnectivity
 import dagger.Module
 import dagger.Provides
 import kotlinx.coroutines.Dispatchers

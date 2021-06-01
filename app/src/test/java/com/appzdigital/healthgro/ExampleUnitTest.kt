@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro
+package com.appzdigital.healthgro
 
 import org.junit.Test
 

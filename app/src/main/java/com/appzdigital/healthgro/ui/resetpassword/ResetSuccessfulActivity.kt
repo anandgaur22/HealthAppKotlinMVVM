@@ -1,15 +1,13 @@
-package com.b2cinfosolution.healthgro.ui.resetpassword
+package com.appzdigital.healthgro.ui.resetpassword
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
-import com.b2cinfosolution.healthgro.R
-import com.b2cinfosolution.healthgro.databinding.ActivityResetPasswordBinding
-import com.b2cinfosolution.healthgro.databinding.ActivityResetSuccessfulBinding
-import com.b2cinfosolution.healthgro.ui.login.LoginActivity
-import com.b2cinfosolution.healthgro.ui.signup.SignupActivity
+import com.appzdigital.healthgro.R
+import com.appzdigital.healthgro.databinding.ActivityResetSuccessfulBinding
+import com.appzdigital.healthgro.ui.login.LoginActivity
 import javax.inject.Inject
 
 class ResetSuccessfulActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.ui.splash
+package com.appzdigital.healthgro.ui.splash
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel

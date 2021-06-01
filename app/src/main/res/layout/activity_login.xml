@@ -8,7 +8,7 @@
 
         <variable
             name="vm"
-            type="com.b2cinfosolution.healthgro.ui.login.LoginViewModel" />
+            type="com.appzdigital.healthgro.ui.login.LoginViewModel" />
     </data>
 
 

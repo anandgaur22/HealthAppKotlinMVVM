@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.ui.searchLocation
+package com.appzdigital.healthgro.ui.searchLocation
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel

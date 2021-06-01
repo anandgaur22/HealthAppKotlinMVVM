@@ -1,6 +1,6 @@
-package com.b2cinfosolution.healthgro.di
+package com.appzdigital.healthgro.di
 
-import com.b2cinfosolution.healthgro.application.App
+import com.appzdigital.healthgro.application.App
 import dagger.Component
 import dagger.android.AndroidInjectionModule
 import javax.inject.Singleton

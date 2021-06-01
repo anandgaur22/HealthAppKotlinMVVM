@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.ui.resetpassword
+package com.appzdigital.healthgro.ui.resetpassword
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel

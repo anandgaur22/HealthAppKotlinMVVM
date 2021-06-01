@@ -1,11 +1,11 @@
-package com.b2cinfosolution.healthgro.utils
+package com.appzdigital.healthgro.utils
 
 import android.app.Dialog
 import android.content.Context
 import android.os.Bundle
 import android.view.animation.Animation
 import android.view.animation.RotateAnimation
-import com.b2cinfosolution.healthgro.R
+import com.appzdigital.healthgro.R
 import kotlinx.android.synthetic.main.dialog_progress.*
 
 

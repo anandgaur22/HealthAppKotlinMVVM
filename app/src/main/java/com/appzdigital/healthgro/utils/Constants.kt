@@ -1,4 +1,4 @@
-package com.b2cinfosolution.healthgro.utils
+package com.appzdigital.healthgro.utils
 
 const val SPLASH_DELAY = 3000
 const val GPS_REQUEST = 1001
